@@ -40,6 +40,22 @@ Revision all topic to 1-20 line.
   wap to write a swap two number,calculate area of circle and rectangle
   learn return types and void functions.
 
+  learn Array, why array is fixed.
+  what is linear search, traverse array and compare each element
+  time complexity, what us a binary search and function 
+  why o(logn) vs o(n) for linear search
+
+  what is 2D array wap to 3*3 matrix and 2*3 matrix.
+
+  what is string and its functions
+  wap to count vowels in string.
+  revision all topic.
+
+  
+
+  
+  
+
   
   
 
