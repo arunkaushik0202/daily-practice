@@ -70,6 +70,22 @@ public class Calc {
         }
 
         sc.close();
+        # MERGE SORT ARRAY
+
+          given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.
+          
+class Solution {
+    public void merge(int[] nums1, int m, int[] nums2, int n) {
+int m = 5, n = 3;
+int nums1 = m;
+int nums2 = n;
+
+for(int i = 0; i <= m; i++) {
+    for(int j = 0; j <= n; j++) {
+        System.out.println(i + " " + j);
+    }
+}
+        
     
 
 
